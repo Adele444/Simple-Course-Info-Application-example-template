@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_Home"
+        android:title="Home"
+        android:icon="@drawable/homeicon"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_AWD"
+        android:title="open AWD"
+        />
+
+    <item
+        android:id="@+id/action_DBMS"
+        android:title="open DBMS"
+        />
+
+    <item
+        android:id="@+id/action_MAD"
+        android:title="open MAD"
+        />
+
+    <item
+        android:id="@+id/action_exit"
+        android:title="Exit"
+        />
+
+
+
+</menu>
